@@ -1,0 +1,18 @@
+.heading{
+    font-size: x-large;
+    width: 97%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.note{
+    font-size: large;
+}
+body{
+    background: url('https://cdn.pixabay.com/photo/2016/11/22/19/15/hand-1850120__480.jpg');
+    background-size: cover;
+}
+
+#song_name_button{
+    height: 30%;
+    font-size: large;
+}
